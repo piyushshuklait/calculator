@@ -1,0 +1,15 @@
+{
+    "name": "devdojo/calculator",
+    "description": "This demo package will do some calculations",
+    "authors": [
+        {
+            "name": "Piyush Shukla",
+            "email": "piyushshuklait@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
